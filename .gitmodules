@@ -1,0 +1,3 @@
+[submodule "odoo-docker"]
+	path = odoo-docker
+	url = https://github.com/devsar/odoo-docker
